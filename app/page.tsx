@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-// app/page.tsx
-=======
->>>>>>> c4a0ab6 (initial commit)
 "use client";
 
 import Image from "next/image";
@@ -139,17 +135,10 @@ export default function HomePage() {
                   First-time buyer or move-up home, I’ll guide you from
                   pre-approval to closing with zero surprises
                 </p>
-<<<<<<< HEAD
-                <a className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
-                  <Link href="/investments">Learn more</Link>{" "}
-                  <ArrowRight className="w-4 h-4" />
-                </a>
-=======
                 <div className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
                   <Link href="/HomePurchase">Learn more</Link>{" "}
                   <ArrowRight className="w-4 h-4" />
                 </div>
->>>>>>> c4a0ab6 (initial commit)
               </Card>
 
               {/* Doctors Only Program */}
@@ -166,17 +155,10 @@ export default function HomePage() {
                   Lower your rate, shorten your term, or tap into equity. We’ll
                   run the numbers together so you know it makes sense.{" "}
                 </p>
-<<<<<<< HEAD
-                <a className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
-                  <Link href="/mortgage">Learn more</Link>{" "}
-                  <ArrowRight className="w-4 h-4" />
-                </a>
-=======
                 <div className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
                   <Link href="/Refinance">Learn more</Link>{" "}
                   <ArrowRight className="w-4 h-4" />
                 </div>
->>>>>>> c4a0ab6 (initial commit)
               </Card>
 
               {/* Jumbo Financing */}
@@ -193,17 +175,10 @@ export default function HomePage() {
                   Financing for 1-4 unit rentals and portfolio growth. I
                   understand investor timelines and cash flow needs.
                 </p>
-<<<<<<< HEAD
-                <a className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
-                  <Link href="/insurance">Learn more</Link>{" "}
-                  <ArrowRight className="w-4 h-4" />
-                </a>
-=======
                 <div className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
                   <Link href="/InvestmentProperties">Learn more</Link>{" "}
                   <ArrowRight className="w-4 h-4" />
                 </div>
->>>>>>> c4a0ab6 (initial commit)
               </Card>
 
               {/* Self-Employed Borrowers */}
@@ -220,20 +195,10 @@ export default function HomePage() {
                   Conventional, FHA, VA, Jumbo, and niche investor products. If
                   it exists, I’ll help you access it.
                 </p>
-<<<<<<< HEAD
-                <a
-                  href="#contact"
-                  className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition"
-                >
-                  <Link href="/security">Learn more</Link>{" "}
-                  <ArrowRight className="w-4 h-4" />
-                </a>
-=======
                 <div className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
                   <Link href="/LoanOptions">Learn more</Link>{" "}
                   <ArrowRight className="w-4 h-4" />
                 </div>
->>>>>>> c4a0ab6 (initial commit)
               </Card>
 
               {/* FHA Loans */}
@@ -249,17 +214,10 @@ export default function HomePage() {
                 <p className="text-slate-600 mb-4">
                   No ghosting, no confusing updates. You’ll know where your loan stands every step.
                 </p>
-<<<<<<< HEAD
-                <a className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
-                  <Link href="/banking">Learn more</Link>{" "}
-                  <ArrowRight className="w-4 h-4" />
-                </a>
-=======
                 <div className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
                   <Link href="/ClearCommunication">Learn more</Link>{" "}
                   <ArrowRight className="w-4 h-4" />
                 </div>
->>>>>>> c4a0ab6 (initial commit)
               </Card>
 
               {/* Refinancing */}
@@ -275,17 +233,10 @@ export default function HomePage() {
                 <p className="text-slate-600 mb-4">
                    Questions get answered the same day because timing matters in real estate.
                 </p>
-<<<<<<< HEAD
-                <a className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
-                  <Link href="/security">Learn more</Link>{" "}
-                  <ArrowRight className="w-4 h-4" />
-                </a>
-=======
                 <div className="text-[#236193] font-semibold flex items-center gap-2 hover:gap-3 transition">
                   <Link href="/FastResponseTimes">Learn more</Link>{" "}
                   <ArrowRight className="w-4 h-4" />
                 </div>
->>>>>>> c4a0ab6 (initial commit)
               </Card>
             </div>
           </div>

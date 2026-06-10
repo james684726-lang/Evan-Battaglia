@@ -82,7 +82,6 @@ export default function EvenBattaglia() {
                   </p>
                 </Link>
               </div>
-<<<<<<< HEAD
               <div className="mt-4 flex  gap-4">
                 <Link
                   target="_blank"
@@ -178,9 +177,7 @@ export default function EvenBattaglia() {
                 </Link>
               </div>
               <div></div>
-=======
               
->>>>>>> c4a0ab6 (initial commit)
             </div>
 
             {/* Right Column - Profile Image */}

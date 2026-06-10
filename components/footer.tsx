@@ -19,11 +19,22 @@ export function Footer() {
                 className="h-42 w-68 object-contain"
               />
             </Link>
-<<<<<<< HEAD
-            <div className="mt-4 flex items-center justify-center gap-4">
-=======
+            <Link
+                target="_blank"
+                href="https://preferredrate.com/loan-officer/evan-battaglia/"
+                className="flex items-center gap-2"
+                rel="noopener noreferrer"
+              >
+                 <Image
+                src="/img/Logo-21.svg"
+                alt="Shopique"
+                width={100}
+                height={100}
+                priority
+                className="h-12 w-28 object-contain bg-amber-100 rounded-full p-2"
+              />
+              </Link>
             {/* <div className="mt-4 flex items-center justify-center gap-4">
->>>>>>> c4a0ab6 (initial commit)
               <Link
                 target="_blank"
                 href="https://www.linkedin.com/in/kenschmidtchicago/"
@@ -116,11 +127,7 @@ export function Footer() {
                   className="h-12 w-20 object-contain"
                 />
               </Link>
-<<<<<<< HEAD
-            </div>
-=======
             </div> */}
->>>>>>> c4a0ab6 (initial commit)
           </div>
           {/* Company Info */}
           <div>
@@ -179,103 +186,7 @@ export function Footer() {
             </ul>
           </div>
 
-<<<<<<< HEAD
-          {/* Loan Programs */}
-          {/* <div>
-            <h4 className="font-bold mb-4">Loan Programs</h4>
-            <ul className="space-y-2 text-blue-100">
-              <li>
-                <Link
-                  href="/loans/construction"
-                  className="hover:text-white transition"
-                >
-                  Construction Loans
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/loans/doctors"
-                  className="hover:text-white transition"
-                >
-                  Doctors Only Program
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/loans/jumbo"
-                  className="hover:text-white transition"
-                >
-                  Jumbo Financing
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/loans/self-employed"
-                  className="hover:text-white transition"
-                >
-                  Self-Employed Borrowers
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/loans/fha-va"
-                  className="hover:text-white transition"
-                >
-                  FHA & VA Loans
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/loans/refinancing"
-                  className="hover:text-white transition"
-                >
-                  Refinancing Solutions
-                </Link>
-              </li>
-            </ul>
-          </div> */}
-
-          {/* Resources */}
-          {/* <div>
-            <h4 className="font-bold mb-4">Resources</h4>
-            <ul className="space-y-2 text-blue-100">
-              <li>
-                <Link
-                  href="/resources/calculator"
-                  className="hover:text-white transition"
-                >
-                  Mortgage Calculator
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/resources/learning-center"
-                  className="hover:text-white transition"
-                >
-                  Learning Center
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/resources/faq"
-                  className="hover:text-white transition"
-                >
-                  FAQ
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/resources/blog"
-                  className="hover:text-white transition"
-                >
-                  Blog
-                </Link>
-              </li>
-            </ul>
-          </div> */}
-=======
           
->>>>>>> c4a0ab6 (initial commit)
         </div>
 
         {/* Map Section */}
